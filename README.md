@@ -29,5 +29,5 @@ A collection of practical Django projects built to solve real-world problems usi
 
 ## 💼 About Me
 I’m Sukanta Nag Hirock, passionate about solving real-life problems using Django, AI/ML, and computer vision.  
-👉 [LinkedIn](https://sukanta-3d-portfolio.vercel.app/) | [Portfolio Website](https://sukanta-3d-portfolio.vercel.app/)
+👉 [LinkedIn](https://sukanta-3d-portfolio.vercel.app/) | [Portfolio](https://sukanta-3d-portfolio.vercel.app/) | [CV]()
 
